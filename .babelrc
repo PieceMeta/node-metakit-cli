@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "node": "8.4"
+        },
+        "loose": true,
+        "debug": false,
+        "modules": "commonjs"
+      }
+    ]
+  ]
+}
