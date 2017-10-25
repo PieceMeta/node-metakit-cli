@@ -1,5 +1,7 @@
 # metakit CLI
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PieceMeta/node-metakit-cli.svg)](https://greenkeeper.io/)
+
 Command line interface for [metakit](https://github.com/piecemeta/node-metakit).
 
 [![npm version](https://badge.fury.io/js/metakit-cli.svg)](https://badge.fury.io/js/metakit-cli)
