@@ -41,7 +41,7 @@
   "dependencies": {
     "clui": "^0.3.6",
     "colors": "^1.1.2",
-    "metakit": "^0.2.0",
+    "metakit": "^0.4.0",
     "yargs": "^11.0.0"
   }
 }
