@@ -28,7 +28,7 @@
     "chai": "^4.1.2",
     "chance": "^1.0.12",
     "cross-env": "^5.1.1",
-    "eslint": "^4.13.1",
+    "eslint": "^6.8.0",
     "eslint-config-standard": "^11.0.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-node": "^6.0.0",
